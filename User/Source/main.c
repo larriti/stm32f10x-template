@@ -75,11 +75,6 @@ void assert_failed(uint8_t* file, uint32_t line)
 }
 #endif
 
-/**
-  * @}
-  */
-
-  
 
 
 /******************* (C) COPYRIGHT 2011 STMicroelectronics *****END OF FILE****/
