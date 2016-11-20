@@ -77,6 +77,3 @@ add_custom_target (size ALL arm-none-eabi-size "${EXECUTABLE_OUTPUT_PATH}/${CMAK
 add_custom_target (flash COMMAND st-flash write ${EXECUTABLE_OUTPUT_PATH}/${CMAKE_PROJECT_NAME}.bin 0x8000000)
 # Make clean-all
 add_custom_target (clean-all COMMAND rm -rf ${CMAKE_BINARY_DIR}/*)
-
-
-fix this
