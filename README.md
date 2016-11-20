@@ -39,4 +39,3 @@ stlink
   make flash
 ```
 
-wangxian 
