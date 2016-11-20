@@ -1,0 +1,9 @@
+-I.
+-IDrivers/CMSIS/Device/Include
+-IDrivers/CMSIS/Include
+-IUser/Include
+-IDrivers/STM32F10x_StdPeriph_Driver/inc
+-DUSE_STDPERIPH_DRIVER
+-DSTM32F10X_HD
+
+-IThirdParty/FreeRTOS/Include
